@@ -17,4 +17,3 @@ print(n1)
 print(n2)
 print(n3)
 print(result)
-jjnjnjn
