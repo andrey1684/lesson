@@ -30,23 +30,3 @@ while var:
     break
 
 
-
-
-
-
-
-# _ => True
-# __ => False
-# ___ => False
-# x => True
-# get_value => True
-# get value => False
-# get!value => False
-# some_super_puper_value => True
-# Get_value => False
-# get_Value => False
-# getValue => False
-# 3m => False
-# m3 => True
-# assert => False
-# assert_exception => True
