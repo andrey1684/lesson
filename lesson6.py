@@ -3,7 +3,6 @@ first = input("first_symbol")
 second =input("second_symbol")
 elements = first, "-", second
 elements = list(elements)
-# abc = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 abc = string.ascii_letters
 # print("".join(elements))
 answer = []
