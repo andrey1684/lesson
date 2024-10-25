@@ -25,5 +25,3 @@ hashtag = "".join(hash)
 hashtag = hashtag.title()
 hashtag = hashtag.replace(" ", "")
 print(hashtag)
-
-
